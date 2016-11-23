@@ -1,0 +1,6 @@
+{
+    "name": "sopolyfill",
+    "description": "Polyfills for browsers >= IE 9",
+    "version": "0.1",
+    "dojoBuild": "package.js"
+}
